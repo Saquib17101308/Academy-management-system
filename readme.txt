@@ -48,7 +48,7 @@ Code details -
 
 	model/edit3.php - runs update data query for show.php
 
- 	model/utility.php - checks session and cookies are available or not. if not available redirects user to login page 
+ 	model/utility.php - checks session and cookies are available/not, if not redirects user to login page 
 	
 	controller/logout.php - runs session destroy command and reset cookies 
 	
