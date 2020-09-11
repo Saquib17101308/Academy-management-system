@@ -1,4 +1,7 @@
-									#Academy management
+#Academy management
+
+instructions -
+
 Step 1. Database creation - 
 			create a database naming "school" and import school.sql file from model. (added in school.zip)
 Step 2. Login details - (can check from db)
